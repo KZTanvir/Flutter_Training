@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:class4_assesment4/ui.dart';
+import 'package:class4_assesment4/counter.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,6 +20,9 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const ProfileCard(),
+      routes: {
+        '/counter': (context) => const CounterScreen(),
+      },
     );
   }
 }
