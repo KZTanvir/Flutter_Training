@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244427688905",
+    "project_id": "bdixauth",
+    "storage_bucket": "bdixauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244427688905:android:9a71d68a11533573c03618",
+        "android_client_info": {
+          "package_name": "com.example.example_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMTEqXWB0Epn1SXCmmNpjSmZWuExqlTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
